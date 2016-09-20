@@ -22,5 +22,5 @@ composer.lock
 # Project Specific
 node_modules
 *.log
-lib
+# lib
 tmp
